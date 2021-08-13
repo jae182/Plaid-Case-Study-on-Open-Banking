@@ -8,3 +8,6 @@ Plaid was founded in May of 2013 by Zach Perret and William Hockey. Both Perret 
 ### The Path to Funding
 
 Plaid was a start up that received funding from VCs seeding their company all the way to a Series D round in April of 2021 (crunchbase.com), which was primarily funded by larger investment companies. By the final round of funding, Plaid had received a total of $734.3 M. With the final round of funding, Plaid is now valued at roughly $13.4 B (Viktor, 2021). Plaid continues to make money with a freemium business model in which banks and other financial companies are able to use Plaid's software for free, with limited capabilities. If the banks or other financial companies decide to upgrade their services with Plaid, then there are a variety of fees that can be  associated with its usage, such as fees on transactions, checking account information, and a one-time fee for new users that connect to the Plaid API. Through this business model, Plaid is able to collect recurring amounts of income which increase as the user base and usage of the services increase. Plaid's revenue for 2021 is projected to be around $1.9 B (Kauflin, 2021).
+
+## Plaid's Business Activities
+### The Problem Plaid Works to Solve
