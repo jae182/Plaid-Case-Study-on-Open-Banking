@@ -11,3 +11,4 @@ Plaid was a start up that received funding from VCs seeding their company all th
 
 ## Plaid's Business Activities
 ### The Problem Plaid Works to Solve
+The specific financial problem that Plaid is looking to solve is the issues that arise for some companies when looking to access a customer's bank and other        financial accounts. Plaid looked to make the linking of accounts simpler and would therefore make online financial services more accessible to current and          potential investors. By building the pipelines for third party apps to use when linking financial accounts, Plaid has been able to streamline their processing of    the customer's financial data. Plaid has made online financial services more viable, especially for new entrants to the online financial services industry (Schwiep, 2019).
