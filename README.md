@@ -15,3 +15,10 @@ The specific financial problem that Plaid is looking to solve is the issues that
 
 ### Plaid's Service and How it Benefits Customers
 Plaid's intended customers are 3rd party apps that offer some sort of online financial service. Since Plaid has established the framework for relatively seamless    connection between the apps and a user's financial accounts, the most high value customers are going to rely on the infrastructure that Plaid has built. While      the number of potential customers is unknown, it is known that the total market cap surrounding open banking is around "$43.15 B" (Padua, 2021). This market is going to continue to have aggressive growth, thanks in large part to the global pandemic showing the need for a more effecient method of managing finances. While the freemium business model is not solely used by Plaid, where Plaid stands apart from their competitors, such as Finicity and MX Technologies, is in it's friendliness to startup fintech companies. It offers a clean and simple was to "connect with banks, credit card companies, and other financial institutions" (Lawler, 2017). This means that startups are able to have a better shot at having a well polished product that is therefore more likely to be funded and used. By appealing to startups, Plaid essentially gets first contact with a large amount of possible customers to establish strong working relationships.
+
+### Plaid's Use of Technology
+Plaid has recently just migrated from a previous formatting language called Handlebars and a flat file generator used to gather static HTML, to a new framework      called React, which utilizes JavaScript to its full potential. Essentially the framework that Plaid was run on during their founding years has become unusable      now that the company has reached a critical mass of users. The old system had difficulty scaling and if they did not adapt, they would limit their ability to        innovate and therefore, survive (Kelly, 2020).
+
+## Trends in Open Banking
+### Plaid in the Open Banking Domain
+Plaid is building the framework to make Open Banking a common practice for most banks and third party apps. 
