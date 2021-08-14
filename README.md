@@ -41,3 +41,47 @@ One possible service that Plaid should offer in the future is something that oth
 
 
 ## References
+
+Geron, T. (2021, June 29). What data are you sharing WITH fintechs and BANKS? Plaid wants to tell you. Protocol. https://www.protocol.com/fintech/plaid-1033-dodd-       frank-open. 
+
+Holm, A., Manipula, M., Sewell, D., Jhaveri, N., Faraguna, C., Sar, A., Mešanović, M., Karpinski, J., &amp; Scherfner, E. (n.d.). Plaid (company) - wiki. Golden.       https://golden.com/wiki/Plaid_(company)-YX9MD4B#Products. 
+
+Kauflin, J. (2021, April 8). Plaid's $13.4 billion valuation makes its Founders Fintech's newest billionaires. Forbes.                                                   https://www.forbes.com/sites/jeffkauflin/2021/04/07/plaids-134-billion-valuation-makes-its-founders-fintechs-newest-billionaires/?sh=78a568ba2a22. 
+
+Kelly, J. (2020, June 19). How we migrated our website from handlebars to react in 12 weeks. Plaid. https://plaid.com/blog/handlebars-to-react-migration/. 
+
+Konrad, A. (n.d.). Plaid: Fintech's Happy Plumbers. Forbes. https://www.forbes.com/plaid-fintech/#4c76985d67f9. 
+
+Kuznetsov, N. (2017, July 7). Why fintech startups need smart analytics. Entrepreneur. https://www.entrepreneur.com/article/295681. 
+
+Lawler, R. (2017, June 26). Plaid puts out a 'request for STARTUPS' in Nine Underserved Fintech sectors. TechCrunch. https://techcrunch.com/2017/06/26/plaid-rfs/. 
+
+LendIt Fintech. (n.d.). Retrieved from https://www.sc.pages05.net/lp/46886/783432/Financial%20Data%20Integration%20Platforms%20-%20Lendit%20Fintech_FINAL.pdf 
+
+Litterst, R. (2021, March 2). Inside plaid's pricing strategy. Good Better Best. https://goodbetterbest.substack.com/p/inside-plaids-pricing-strategy. 
+
+Lunden, I. (2020, March 2). Thought machine NABS $83m for a cloud-based platform that powers banking services. TechCrunch.                                              https://techcrunch.com/2020/03/01/thought-machine-nabs-83m-for-a-cloud-based-platform-that-powers-banking-services/. 
+
+Open Banking Timeline - 2020. Deloitte. (n.d.). https://www2.deloitte.com/content/dam/Deloitte/au/Images/infographics/deloitte-au-fsi-open-data-banking-timeline-      june-2020-infographic-180620.pdf. 
+
+Padua, V. (2021, February 5). Council post: Open banking is now Essential Banking: A New Decade's Global pressures and best Responses, Part One. Forbes.                https://www.forbes.com/sites/forbestechcouncil/2021/02/08/open-banking-is-now-essential-banking-a-new-decades-global-pressures-and-best-responses-part-one/?        sh=6c12afb31620. 
+
+Pathak, S. (2019, July 15). 99.99%. Synapse Financial Technologies, Inc. https://synapsefi.com/blog/99-99. 
+
+Plaid - Crunchbase company profile &amp; funding. Crunchbase. (n.d.). https://www.crunchbase.com/organization/plaid. 
+
+Powering the money experience for 30 million users. MX. (n.d.). https://www.mx.com/. 
+
+Schwiep, J. (n.d.). Plaid. Digital Innovation and Transformation. https://digital.hbs.edu/platform-digit/submission/plaid/. 
+
+Top open banking startups. Tracxn. (n.d.). https://tracxn.com/d/trending-themes/Startups-in-Open-Banking. 
+
+Towards Data Science. (2017, October 19). 10 key technologies that enable big data analytics for businesses. Medium. https://towardsdatascience.com/10-key-            technologies-that-enable-big-data-analytics-for-businesses-d82703891e2f. 
+
+Treece, A. (2021, January 5). Plaid vs. yodlee VS. Zabo: Choosing the best financial data aggregator. Zabo's Blog. https://zabo.com/blog/plaid-vs-yodlee-vs-zabo/. 
+
+Viktor. (2021, July 5). The Plaid business model – How Does Plaid make money? productmint. https://productmint.com/plaid-business-model-how-does-plaid-make-money/. 
+
+What is the consumer data right? OAIC. (n.d.). https://www.oaic.gov.au/consumer-data-right/what-is-the-consumer-data-right/. 
+
+yodlee.com. (n.d.). https://www.yodlee.com/. 
